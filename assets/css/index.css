@@ -1,0 +1,25 @@
+/* Universal Selector */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Element Selectors */
+li {
+    display: inline;
+    float: right;
+}
+
+/* Class Selectors */
+.header-footer{
+    background-color: darkgreen;
+}
+
+.contact-me {
+    background-color: lightcoral;
+}
+
+.home-img {
+    height: 200px;
+    width: 200px;
+}
